@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hate_counts",
+  "info": {
+    "singularName": "hate-count",
+    "pluralName": "hate-counts",
+    "displayName": "hateCount",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
